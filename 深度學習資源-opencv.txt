@@ -1,2 +1,0 @@
-opencv-彩色图像R、G、B分量的提取与合并及其相关颜色空间的转化
-https://blog.csdn.net/jnulzl/article/details/47133479
